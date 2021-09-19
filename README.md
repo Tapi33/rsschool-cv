@@ -1,2 +1,2 @@
-https://tapi33.github.io/rsschool-cv/cv-html-css
+https://tapi33.github.io/rsschool-cv/cv
 
